@@ -1,0 +1,68 @@
+body{
+background-color: rgb(112, 175, 115);
+color: greenyellow;
+margin: 10%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: smaller;
+line-height: 220%;
+}
+h3 { 
+    color: lime;
+
+}
+p{
+color: lime;
+width: 185px;
+border: 1px solid white;
+}
+label{
+
+    color: rgb(255, 255, 255);
+}
+h2{
+color: rgb(252, 0, 0);
+
+}
+h5{
+    color: lime;
+}
+input[type="text"],
+select{
+ width: 20%;
+ padding:12px ;
+ margin: 8px ;
+ display: inline-block;
+ border: 4px solid green;
+ border-radius: 2px;
+ box-sizing: border-box;
+}
+
+input[type="email"],
+select{
+ width: 20%;
+ padding:12px ;
+ margin: 8px;
+ display: inline-block;
+ border: 4px solid green;
+ border-radius: 2px;
+ box-sizing: border-box;
+}
+div{
+  margin:8px 0;
+  padding: 20px;
+  border: 8px solid green; 
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button[type="submit"] {
+width:15%;
+background-color: rgb(245, 170, 21);
+color: goldenrod;
+margin: 8px 0;
+border: magenta;
+border-radius: 4px;
+cursor: pointer;
+}
+
+
+
